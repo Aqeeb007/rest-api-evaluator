@@ -3,6 +3,9 @@
 ## Project Overview
 This application evaluates REST APIs by parsing an OpenAPI Specification (OAS) file, executing endpoints, and generating a comprehensive report.
 
+
+PETSTORE_SPEC_URL = 'https://petstore.swagger.io/v2/swagger.json'
+
 ![alt text](frontend/public/ui.png)
 
 ## Prerequisites
